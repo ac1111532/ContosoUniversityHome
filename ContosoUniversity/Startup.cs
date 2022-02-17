@@ -15,7 +15,7 @@ namespace ContosoUniversity
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        public Startup(IConfiguration configuration) //Fixed Startup.cs to functionial status
         {
             Configuration = configuration;
         }
